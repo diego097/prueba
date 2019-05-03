@@ -1,6 +1,7 @@
-restar: function restarNumeros(n1, n2) {
+function restarNumeros(n1, n2) {
             return (parseInt(n1) - parseInt(n2));
-        },
+        }
+        
 function sumar(){
 
    var num1 = 5;
