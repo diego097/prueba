@@ -11,8 +11,7 @@ function multiplicar(){
 
    var num1 = 5;
    var num2 = 8;
-  suma = num1  * num2;
+  suma = num1 * num2;
   alert("La multiplicacion es: "+multiplicacion);
 }
-
 
