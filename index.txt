@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 soy diego
+=======
+
+
+>>>>>>> ea0ea3e9caffc2a3cb2fff6fd7ab03717dd655bd
